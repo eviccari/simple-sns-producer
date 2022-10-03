@@ -1,0 +1,10 @@
+{
+  "app_port": 8080,
+  "request_http_timeout_in_secs": 20,
+  "app_name": "simple-sns-producer",
+  "topic_name": "arn:aws:sns:us-east-1:000000000000:my-topic",
+  "accessKeyId": "test",
+  "secretAccessKey": "test",
+  "region": "us-east-1",
+  "endpointURL": "http://localhost:4566"
+}
